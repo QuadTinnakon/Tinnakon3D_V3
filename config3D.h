@@ -38,9 +38,9 @@ float Kp_ratePitch = 1.05;//1.12
 float Ki_ratePitch = 0.85;//0.45
 float Kd_ratePitch = 0.041;//0.041
 
-float Kp_rateYaw = 1.05;//1.6
-float Ki_rateYaw = 1.17;//0.45
-float Kd_rateYaw = 0.022;//0.022
+float Kp_rateYaw = 1.07;//1.6
+float Ki_rateYaw = 1.35;//0.45
+float Kd_rateYaw = 0.052;//0.022
 
 #define TASK_100HZ 2
 #define TASK_50HZ 3 //4
