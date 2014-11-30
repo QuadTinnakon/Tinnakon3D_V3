@@ -18,6 +18,8 @@ date: 27-11-2557(2014) Tinnakon3D_V1
 
 date: 29-11-2557(2014) Tinnakon3D_V2
 
+date: 30-11-2557(2014)  Tinnakon3D_V3
+
 support: Board MWC-S V1.5
 
 • Atmega328p
