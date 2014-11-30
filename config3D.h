@@ -27,20 +27,20 @@ https://www.facebook.com/tinnakonza
 #define MAXCHECK 1900
 
 //PID-------------Rate
-float K_Rate = 0.45;//0.25
-float K_Rate_yaw = 0.45;
+float K_Rate = 0.65;//0.25
+float K_Rate_yaw = 0.46;//0.45
 
-float Kp_rateRoll = 1.05;//1.12
+float Kp_rateRoll = 1.022;//1.05 1.12
 float Ki_rateRoll = 0.85;//0.45
-float Kd_rateRoll = 0.041;//0.051
+float Kd_rateRoll = 0.026;//0.028 0.041 0.051
 
-float Kp_ratePitch = 1.05;//1.12
+float Kp_ratePitch = 1.022;//1.12
 float Ki_ratePitch = 0.85;//0.45
-float Kd_ratePitch = 0.041;//0.041
+float Kd_ratePitch = 0.026;//0.041
 
-float Kp_rateYaw = 1.07;//1.6
+float Kp_rateYaw = 1.06;//1.07 1.6
 float Ki_rateYaw = 1.35;//0.45
-float Kd_rateYaw = 0.052;//0.022
+float Kd_rateYaw = 0.038;//0.052 0.022
 
 #define TASK_100HZ 2
 #define TASK_50HZ 3 //4
