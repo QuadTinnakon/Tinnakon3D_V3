@@ -107,7 +107,7 @@ void loop()
  if (frameCounter % TASK_50HZ == 0)// 50 Hz tak (20 ms)
  {
   computeRC();
-  if(CH_THR > 1450 && CH_THR < 1550 && AUX_1 > 1900 && armed == 0){
+  if(CH_THR > 1450 && CH_THR < 1550 && AUX_1 > 2100 && armed == 0){
      armed = 1;
      digitalWrite(13, HIGH);//B
   } 
