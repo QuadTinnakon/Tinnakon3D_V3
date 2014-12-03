@@ -135,7 +135,7 @@ void mpu6050_Gyro_Values()
     i++;
   }
   Wire.endTransmission();
-    gyroRaw[XAXIS] = ((result[0] << 8) | result[1])*-1;
+    gyroRaw[XAXIS] = ((result[0] << 8) | result[1]);
     gyroRaw[YAXIS] = ((result[2] << 8) | result[3]);
     gyroRaw[ZAXIS] = ((result[4] << 8) | result[5]);
 }	
