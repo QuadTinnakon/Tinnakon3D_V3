@@ -1,5 +1,8 @@
 Tinnakon3D_V3
 =============
+TK Quad 3D Shop
+http://quad3d-tin.lnwshop.com/
+
 /*
 
 project_Quad 3d Fixed Pitch
