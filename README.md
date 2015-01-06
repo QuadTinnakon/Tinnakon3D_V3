@@ -3,6 +3,12 @@ Tinnakon3D_V3
 TK Quad 3D Shop
 http://quad3d-tin.lnwshop.com/
 
+วีดีโอ
+
+https://www.youtube.com/watch?v=e9f24L_n7K4&list=UUK8SdBKqjdXghqlJf3-sZaQ
+
+![](https://cloud.githubusercontent.com/assets/9403558/5625278/4d510d2e-95aa-11e4-9791-c42557e6bf60.jpg)
+
 /*
 
 project_Quad 3d Fixed Pitch
